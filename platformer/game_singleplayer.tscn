@@ -11,8 +11,8 @@ script = ExtResource("2")
 
 [node name="Level" parent="." unique_id=1168262303 instance=ExtResource("3")]
 
-[node name="Player" parent="Level" unique_id=149738093 instance=ExtResource("4")]
-position = Vector2(90, 546)
+[node name="Player" parent="Level" unique_id=2082362269 instance=ExtResource("4")]
+position = Vector2(-169.99997, 206.00003)
 
 [node name="InterfaceLayer" type="CanvasLayer" parent="." unique_id=829401098]
 layer = 100
