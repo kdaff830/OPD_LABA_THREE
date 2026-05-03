@@ -86,8 +86,6 @@ texture = ExtResource("13")
 
 [node name="g58" type="Sprite2D" parent="Grass" unique_id=2106785783]
 
-[node name="g58" type="Sprite2D" parent="Grass" unique_id=948498738]
-
 z_index = -1
 material = ExtResource("18")
 position = Vector2(375, 642)
